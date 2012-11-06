@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install traits
+    $ gem install traitor
 
 ## Behavior reusability through Traits
 

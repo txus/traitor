@@ -1,10 +1,9 @@
 # traitor [![Build Status](https://secure.travis-ci.org/txus/traitor.png)](http://travis-ci.org/txus/traitor)
 
 Traitor is a basic implementation of
-[Traits](http://en.wikipedia.org/wiki/Trait_(computer_programming)) (duh) for Ruby 2.0.
+[Traits](http://en.wikipedia.org/wiki/Trait_(computer_programming) (duh) for Ruby 2.0.
 
-Also, it might be the only library in the world that represents a non-optional
-use case for refinements. `</troll>`
+Also, it might be the only library in the world that **needs** refinements. `</troll>`
 
 ## Installation
 
